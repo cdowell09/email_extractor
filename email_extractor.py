@@ -195,5 +195,5 @@ def extract_emails_from_newline_separated_text(file_path: str) -> List[str]:
 # )
 
 # # Write emails to file
-# with open("2024_sarah_dowell_photography_mini_session_past_clients.txt", "w") as file:
+# with open("all_unique_emails_combined.txt", "w") as file:
 #     file.write("\n".join(emails))
